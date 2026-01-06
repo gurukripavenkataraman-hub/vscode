@@ -1,0 +1,9 @@
+/* This styles all H1 elements */
+h1 {
+    color: blue; /* Sets the text color to blue */
+    font-size: 36px; /* Sets the font size to 36 pixels */
+    text-align: center; /* Centers the text */
+}
+
+
+
